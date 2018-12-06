@@ -32,8 +32,6 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-https://i.imgur.com/BOzsPuY.gif
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
@@ -85,10 +83,6 @@ Please list two areas of the assignment you'd like to **discuss further with you
 2.setting the photo proterty of the details view controller
 
 ## Video Walkthrough
-
-https://i.imgur.com/DisIxQP.gif
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
